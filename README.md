@@ -7,6 +7,7 @@ Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking 
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model can be of great help.
 
 # About the dataset
+This dataset is taken from kaggle
 1. Age: age of the patient [years]
 2. Sex: sex of the patient [M: Male, F: Female]
 3. ChestPainType: chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]
